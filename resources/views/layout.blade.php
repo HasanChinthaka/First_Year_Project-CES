@@ -74,7 +74,7 @@
                         <div class="nav-overlay uk-visible@l">
                         <ul class="uk-navbar-nav">
                             <li class="uk-active"><a href="{{url('/')}}">Home</a></li>
-                            <li><a href="#">Create Estimate</a></li>
+                            <li><a href="{{url('create-estimate')}}">Create Estimate</a></li>
                             <li><a href="{{url('products')}}">Products</a></li>
                             <li><a href="{{url('aboutus')}}">About Us</a></li>
                             <li><a href="{{url('contactus')}}">Contact Us</a></li>

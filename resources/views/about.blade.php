@@ -24,7 +24,7 @@
             <div class="uk-container">
               <div class="section-content">
                 <div class="uk-grid uk-grid-large uk-child-width-1-2@m" data-uk-grid>
-                  <div><img src="./assets/img/img-about.png" alt="img-about"></div>
+                  <div><img src="./assets/img/img-about.jpg" alt="img-about"></div>
                   <div>
                     <div class="section-title">                  
                       <div class="uk-h2">About Us</div>
@@ -110,9 +110,9 @@
         </div>
         <div class="team-content">
               <div class="box">
-                <img src="assets/img/01.png" class="pro_pic">
+                <img src="assets/img/team/kusal.jpg" class="pro_pic">
                 <h3>Kusal Kavinda</h3>
-                <h5>Project Manager</h5>
+                <!-- <h5>Project Manager</h5> --><br>
                 <div class="icons">
                   <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
                   <a href="#" target="_blank"><i class="fab fa-facebook-square"></i></a>
@@ -121,9 +121,9 @@
               </div>
 
               <div class="box">
-                <img src="assets/img/01.png" class="pro_pic">
+                <img src="assets/img/team/hasan.jpg" class="pro_pic">
                 <h3>Hasan Chinthaka</h3>
-                <h5>Developer</h5>
+                <!-- <h5>Developer</h5> --><br>
                 <div class="icons">
                   <a href="https://www.linkedin.com/in/hasan-chinthaka/" target="_blank"><i class="fab fa-linkedin"></i></a>
                   <a href="https://www.facebook.com/profile.php?id=61552983686212" target="_blank"><i class="fab fa-facebook-square"></i></a>
@@ -132,53 +132,53 @@
               </div>
 
               <div class="box">
-                <img src="assets/img/01.png" class="pro_pic">
-                <h3>Tharushi Vinodya</h3>
-                <h5>Developer</h5>
+                <img src="assets/img/team/tharushi.jpg" class="pro_pic">
+                <h3>Tharushi Vinodya<br></h3>
+                <!-- <h5>Developer<br></h5> --><br>
                 <div class="icons">
-                  <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
-                  <a href="#" target="_blank"><i class="fab fa-facebook-square"></i></a>
-                  <a href="#" target="_blank"><i class="fab fa-github"></i></a>
+                  <a href="https://www.linkedin.com/in/tharushi-vinodya-b00635298/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                  <a href="https://www.facebook.com/tharushi.herath.739" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                  <a href="https://github.com/TharushiVinodya" target="_blank"><i class="fab fa-github"></i></a>
                 </div>
               </div>
 
               <div class="box">
-                <img src="assets/img/01.png" class="pro_pic">
-                <h3>Dilakshika</h3>
-                <h5>Developer</h5>
+                <img src="assets/img/team/dilakshika.jpg" class="pro_pic">
+                <h3>Pirapakaran Dilakshika<br></h3>
+                <!-- <h5>Developer</h5> --><br>
                 <div class="icons">
-                  <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
+                  <a href="https://www.linkedin.com/in/pirapakaran-dilakshika-632423299/" target="_blank"><i class="fab fa-linkedin"></i></a>
                   <a href="#" target="_blank"><i class="fab fa-facebook-square"></i></a>
-                  <a href="#" target="_blank"><i class="fab fa-github"></i></a>
+                  <a href="https://github.com/Dililakshika" target="_blank"><i class="fab fa-github"></i></a>
                 </div>
               </div>
 
               <div class="box">
-                <img src="assets/img/01.png" class="pro_pic">
+                <img src="assets/img/team/sanjaya.jpg" class="pro_pic">
                 <h3>Pasindu Sanjaya</h3>
-                <h5>UI/UX Designer</h5>
+                <!-- <h5>UI/UX Designer</h5> --><br>
                 <div class="icons">
                   <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
-                  <a href="#" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                  <a href="https://www.facebook.com/pasindu.sanjaya.92" target="_blank"><i class="fab fa-facebook-square"></i></a>
                   <a href="#" target="_blank"><i class="fab fa-github"></i></a>
                 </div>
               </div>
               
              <div class="box">
-                <img src="assets/img/01.png" class="pro_pic">
+                <img src="assets/img/team/viraj.jpg" class="pro_pic">
                 <h3>Viraj Chathuranga</h3>
-                <h5>UI/UX Designer</h5>
+                <!-- <h5>UI/UX Designer</h5> --><br>
                 <div class="icons">
                   <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
-                  <a href="#" target="_blank"><i class="fab fa-facebook-square"></i></a>
-                  <a href="#" target="_blank"><i class="fab fa-github"></i></a>
+                  <a href="https://www.facebook.com/chathuranga.viraj.507" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                  <a href="https://github.com/PGVC" target="_blank"><i class="fab fa-github"></i></a>
                 </div>
               </div>
 
               <div class="box">
-                <img src="assets/img/01.png" class="pro_pic">
+                <img src="assets/img/team/amjath.jpg" class="pro_pic">
                 <h3>Mohomad Amjath</h3>
-                <h5>QA</h5>
+                <!-- <h5>QA</h5> --><br>
                 <div class="icons">
                   <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
                   <a href="#" target="_blank"><i class="fab fa-facebook-square"></i></a>

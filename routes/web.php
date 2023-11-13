@@ -2,6 +2,8 @@
 
 use App\Http\Controllers\AboutUsController;
 use App\Http\Controllers\ContactUsController;
+use App\Http\Controllers\CreateestimateController;
+use App\Http\Controllers\DownloadEstimateController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ProductsController;
 use Illuminate\Support\Facades\Route;
@@ -39,3 +41,6 @@ Route::middleware([
     })->name('dashboard');
 });
 
+Route::get('/create-estimate',[CreateestimateController::class,"createestimate"]);
+Route::post('/create-estimate/done-estimate',[CreateestimateController::class,"store"]);
+Route::get('/download-estimate',[DownloadEstimateController::class,"download"]);

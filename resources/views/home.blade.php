@@ -33,7 +33,11 @@
             <div class="find-box__title"> <span>Create Your Estimate</span></div>
             <div class="find-box__form">
                 <div class="uk-grid uk-grid-medium uk-flex-middle uk-child-width-1-3@m uk-child-width-1-2@s" data-uk-grid>
-                  <div><button class="uk-button uk-button-secondary uk-button-large uk-width-1-1" type="submit"><span>Create My Estimate</span><img src="./assets/img/icons/arrow.svg" alt="arrow" data-uk-svg></button></div>
+                  <div>
+                    <a href="{{url('create-estimate')}}">
+                      <button class="uk-button uk-button-secondary uk-button-large uk-width-1-1"><span>Create My Estimate</span><img src="./assets/img/icons/arrow.svg" alt="arrow" data-uk-svg></button>
+                    </a>
+                    </div>
                 </div>              
             </div>
           </div>
@@ -49,7 +53,7 @@
             <div class="uk-grid uk-grid-medium uk-child-width-1-3@m uk-child-width-1-2@s" data-uk-grid>
               <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-categories-1.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-1.jpg" alt="Excavators" />
+                    <div class="category-item__media"><img src="./assets/img/product/masonry.jpg" alt="Excavators" />
                       <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -60,7 +64,7 @@
               </div>
               <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-categories-1.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-2.jpg" alt="Scissor Lift" />
+                    <div class="category-item__media"><img src="./assets/img/product/wooden-frame.jpg" alt="Scissor Lift" />
                       <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -71,7 +75,7 @@
               </div>
               <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-categories-1.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-3.jpg" alt="forklift / Boomlift" />
+                    <div class="category-item__media"><img src="./assets/img/product/metals.jpg" alt="forklift / Boomlift" />
                       <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -82,7 +86,7 @@
               </div>
               <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-categories-1.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-4.jpg" alt="Compaction Roller" />
+                    <div class="category-item__media"><img src="./assets/img/product/roof.jpg" alt="Compaction Roller" />
                       <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -93,7 +97,7 @@
               </div>
               <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-categories-1.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-5.jpg" alt="Compaction Roller" />
+                    <div class="category-item__media"><img src="./assets/img/product/insulation.jpg" alt="Compaction Roller" />
                       <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -104,7 +108,7 @@
               </div>
               <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-categories-1.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-6.jpg" alt="all types containers" />
+                    <div class="category-item__media"><img src="./assets/img/product/plumbing.jpg" alt="all types containers" />
                       <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -114,7 +118,7 @@
                   </a></div>
               </div>
             </div>
-            <div class="uk-margin-large-top uk-text-center"><a class="uk-button uk-button-default uk-button-large" href="page-categories-1.html"><span>More categories</span><img src="./assets/img/icons/arrow.svg" alt="arrow" data-uk-svg></a></div>
+            <div class="uk-margin-large-top uk-text-center"><a class="uk-button uk-button-default uk-button-large" href="{{url('products')}}"><span>More categories</span><img src="./assets/img/icons/arrow.svg" alt="arrow" data-uk-svg></a></div>
           </div>
         </div>
       </div>
@@ -168,16 +172,14 @@
         <div class="uk-container">
           <div class="section-content">
             <div class="uk-grid uk-grid-large uk-child-width-1-2@m" data-uk-grid>
-              <div><img src="./assets/img/img-about.png" alt="img-about"></div>
+              <div><img src="./assets/img/img-about.jpg" alt="img-about"></div>
               <div>
                 <div class="section-title">
                   <div class="uk-text-meta">About Construction Estimate System</div>
                   <div class="uk-h2">We Offer Smarter Access To <br> Create Construction Estimate</div>
                 </div>
                 <p>
-                  The Construction Estimate System (CES) is a vital tool for predicting project construction costs. It replaces traditional manual methods with efficient software, 
-                  saving time and delivering convenience. CES enables users to choose the right building for their budget from various project plans, 
-                  providing descriptions of construction items for informed decision-making. It simplifies the process of estimating and selecting construction projects.
+                  Your application should be easy to use for both experienced construction professionals and novices. The interface should be clear and intuitive, and users should be able to quickly and easily generate accurate estimates.
                 </p>                
               </div>
             </div>
@@ -304,8 +306,8 @@
                   <li>
                     <div class="review-item">
                       <div class="review-item__box">
-                        <div class="review-item__title">Satisfied With The Facilities At Antek Construction Equipment Rental </div>
-                        <div class="review-item__text">At dolore magna aliqua umt enim ad mini veniam quis ulamco aliquip commodo da consequat duis aute irue derit voluptate cillum dolore afugiat.</div>
+                        <!-- <div class="review-item__title">Ease of use</div> -->
+                        <div class="review-item__text">"I'm a general contractor and I've been using CES for over a year now. It's saved me so much time and money on my estimates. It's easy to use and has all the features I need to create accurate and professional estimates for my clients. I highly recommend it to any contractor." </div>
                         <div class="review-item__user">
                           <div class="review-item__avatar"><img src="./assets/img/review-avatar-1.png" alt="review-avatar"></div>
                           <div class="review-item__info">
@@ -320,8 +322,8 @@
                   <li>
                     <div class="review-item">
                       <div class="review-item__box">
-                        <div class="review-item__title">Satisfied With The Facilities At Antek Construction Equipment Rental </div>
-                        <div class="review-item__text">At dolore magna aliqua umt enim ad mini veniam quis ulamco aliquip commodo da consequat duis aute irue derit voluptate cillum dolore afugiat.</div>
+                        <!-- <div class="review-item__title">Comprehensive features </div> -->
+                        <div class="review-item__text">"I'm a homeowner and I recently used CES to get estimates for a new kitchen renovation. I was so impressed with how easy it was to use and how quickly I got multiple estimates from different contractors. I was able to compare the estimates and choose the best contractor for my needs. I'm so glad I found CES! It was a lifesaver."</div>
                         <div class="review-item__user">
                           <div class="review-item__avatar"><img src="./assets/img/review-avatar-2.png" alt="review-avatar"></div>
                           <div class="review-item__info">
@@ -336,8 +338,8 @@
                   <li>
                     <div class="review-item">
                       <div class="review-item__box">
-                        <div class="review-item__title">Satisfied With The Facilities At Antek Construction Equipment Rental </div>
-                        <div class="review-item__text">At dolore magna aliqua umt enim ad mini veniam quis ulamco aliquip commodo da consequat duis aute irue derit voluptate cillum dolore afugiat.</div>
+                        <!-- <div class="review-item__title">Accuracy </div> -->
+                        <div class="review-item__text">"I'm a commercial subcontractor and I use CES for all of my estimates. It's the most comprehensive and user-friendly estimating software I've ever used. It has all the features I need to create accurate and detailed estimates for my clients. I highly recommend it to any subcontractor."</div>
                         <div class="review-item__user">
                           <div class="review-item__avatar"><img src="./assets/img/review-avatar-1.png" alt="review-avatar"></div>
                           <div class="review-item__info">

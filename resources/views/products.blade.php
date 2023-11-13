@@ -23,7 +23,7 @@
             <div class="uk-grid uk-grid-medium uk-child-width-1-3@m uk-child-width-1-2@s" data-uk-grid>
                 <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-rental.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-1.jpg" alt="Excavators" />
+                    <div class="category-item__media"><img src="./assets/img/product/masonry.jpg" alt="Excavators" />
                         <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -34,7 +34,7 @@
                 </div>
                 <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-rental.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-2.jpg" alt="Scissor Lift" />
+                    <div class="category-item__media"><img src="./assets/img/product/wooden-frame.jpg" alt="Scissor Lift" />
                         <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -45,7 +45,7 @@
                 </div>
                 <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-rental.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-3.jpg" alt="forklift / Boomlift" />
+                    <div class="category-item__media"><img src="./assets/img/product/metals.jpg" alt="forklift / Boomlift" />
                         <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -56,7 +56,7 @@
                 </div>
                 <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-rental.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-4.jpg" alt="Compaction Roller" />
+                    <div class="category-item__media"><img src="./assets/img/product/roof.jpg" alt="Compaction Roller" />
                         <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -67,7 +67,7 @@
                 </div>
                 <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-rental.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-5.jpg" alt="Compaction Roller" />
+                    <div class="category-item__media"><img src="./assets/img/product/insulation.jpg" alt="Compaction Roller" />
                         <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -78,7 +78,7 @@
                 </div>
                 <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-rental.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-6.jpg" alt="All types containers" />
+                    <div class="category-item__media"><img src="./assets/img/product/plumbing.jpg" alt="All types containers" />
                         <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -89,7 +89,7 @@
                 </div>
                 <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-rental.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-7.jpg" alt="Generators" />
+                    <div class="category-item__media"><img src="./assets/img/product/floor.jpg" alt="Generators" />
                         <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -100,7 +100,7 @@
                 </div>
                 <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-rental.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-8.jpg" alt="Aerial work platform" />
+                    <div class="category-item__media"><img src="./assets/img/product/electrical.jpg" alt="Aerial work platform" />
                         <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
@@ -111,7 +111,7 @@
                 </div>
                 <div>
                 <div class="category-item"> <a class="category-item__link uk-inline-clip uk-transition-toggle" href="page-rental.html" tabindex="0">
-                    <div class="category-item__media"><img src="./assets/img/category-9.jpg" alt="Air compressors" />
+                    <div class="category-item__media"><img src="./assets/img/product/paint.jpg" alt="Air compressors" />
                         <div class="uk-transition-fade">
                         <div class="uk-overlay-primary uk-position-cover"></div>
                         <div class="uk-position-center"><span data-uk-icon="icon: plus; ratio: 2"></span></div>
